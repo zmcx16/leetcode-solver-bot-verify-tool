@@ -51,7 +51,7 @@ You can run the tool main.py with the following command line arguments:
 `-f`,   `--fold`: Set the fold for cross-validation (default: 2).
 ```
 
-## Verfiy result on LeetCode no.1-100
+## Verfiy result on LeetCode No.1-100
 
 | Default ChatGPT bot | Accepted | Wrong Answer | Runtime Error | Time Limit Exceeded | Memory Limit Exceeded | Generate Solution Failed |
 |---------------------|----------|--------------|---------------|---------------------|-----------------------|--------------------------|
