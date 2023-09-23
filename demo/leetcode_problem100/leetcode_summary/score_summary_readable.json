@@ -1,0 +1,13 @@
+{
+    "success": 159,
+    "failed": 39,
+    "avg_success": 79.5,
+    "avg_failed": 19.5,
+    "detail": {
+        "Accepted": 159,
+        "Wrong Answer": 6,
+        "Runtime Error": 30,
+        "Time Limit Exceeded": 2,
+        "Memory Limit Exceeded": 1
+    }
+}

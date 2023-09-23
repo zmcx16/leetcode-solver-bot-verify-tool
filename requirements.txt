@@ -1,0 +1,7 @@
+langchain==0.0.205
+tqdm==4.65.0
+openai
+requests>=2.26.0
+webdriver-manager>=3.8.5
+selenium>=4.7.2
+scipy >= 1.11.2

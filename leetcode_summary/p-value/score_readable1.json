@@ -1,0 +1,55 @@
+{
+   "total":6,
+   "success":6,
+   "failed":0,
+   "avg_success":3,
+   "avg_failed":0,
+   "fold":[
+      {
+         "total":3,
+         "success":3,
+         "failed":0,
+         "status_group":{
+            "Accepted":[
+               "1",
+               "24",
+               "53"
+            ]
+         },
+         "detail":{
+            "1":{
+               
+            },
+            "24":{
+               
+            },
+            "53":{
+               
+            }
+         }
+      },
+      {
+         "total":3,
+         "success":3,
+         "failed":0,
+         "status_group":{
+            "Accepted":[
+               "1",
+               "24",
+               "53"
+            ]
+         },
+         "detail":{
+            "1":{
+               
+            },
+            "24":{
+               
+            },
+            "53":{
+               
+            }
+         }
+      }
+   ]
+}

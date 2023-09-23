@@ -1,0 +1,22 @@
+{
+    "p-value": 0.20483276469913345,
+    "statistic": 3.0,
+    "./leetcode_summary/p-value/score_readable1.json": {
+        "total": 6,
+        "success": 6,
+        "failed": 0,
+        "fold_success": [
+            3,
+            3
+        ]
+    },
+    "./leetcode_summary/p-value/score_readable2.json": {
+        "total": 6,
+        "success": 3,
+        "failed": 3,
+        "fold_success": [
+            1,
+            2
+        ]
+    }
+}
