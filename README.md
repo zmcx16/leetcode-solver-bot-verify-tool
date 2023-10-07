@@ -55,9 +55,9 @@ You can run the tool main.py with the following command line arguments:
 
 | Default ChatGPT bot | Accepted | Wrong Answer | Runtime Error | Time Limit Exceeded | Memory Limit Exceeded | Generate Solution Failed |
 |---------------------|----------|--------------|---------------|---------------------|-----------------------|--------------------------|
-| Fold1               | 79       | 2            | 16            | 1                   | 1                     | 0                        |
-| Fold2               | 80       | 4            | 14            | 1                   | 0                     | 0                        |
-| Avg                 | 79.5     | 3            | 15            | 1                   | 0.5                   | 0                        |
+| Fold1               | 79       | 2            | 16            | 1                   | 1                     | 1                        |
+| Fold2               | 80       | 4            | 14            | 1                   | 0                     | 1                        |
+| Avg                 | 79.5     | 3            | 15            | 1                   | 0.5                   | 1                        |
 
 
 ## LeetCode problem dataset
